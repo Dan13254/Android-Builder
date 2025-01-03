@@ -2,10 +2,10 @@
     {
         "kernelSource": {
             "name": "Mi CC 9e",
-            "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
-            "branch": "laurus-q-oss",
-            "device": "laurus-q-oss",
-            "defconfig": "vendor/wayne_defconfig"
+            "repo": "https://github.com/Dan13254/android_kernel_samsung_a226b",
+            "branch": "master",
+            "device": "a22x",
+            "defconfig": "a22x_defconfig"
         },
         "toolchains": [
             {
